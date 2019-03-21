@@ -1,0 +1,10 @@
+.header {
+    background-color: purple;
+    color: #ffffff;
+    padding: 10px;
+    display: inline-block
+}
+.header a {
+    color: #ffffff;
+    margin: 10px;
+}
